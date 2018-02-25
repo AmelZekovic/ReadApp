@@ -1,0 +1,6 @@
+C:\Users\Amel\Desktop\C# Projekti\ReadApp\ReadApp\bin\Debug\ReadApp.exe.config
+C:\Users\Amel\Desktop\C# Projekti\ReadApp\ReadApp\bin\Debug\ReadApp.exe
+C:\Users\Amel\Desktop\C# Projekti\ReadApp\ReadApp\bin\Debug\ReadApp.pdb
+C:\Users\Amel\Desktop\C# Projekti\ReadApp\ReadApp\obj\Debug\ReadApp.csprojResolveAssemblyReference.cache
+C:\Users\Amel\Desktop\C# Projekti\ReadApp\ReadApp\obj\Debug\ReadApp.exe
+C:\Users\Amel\Desktop\C# Projekti\ReadApp\ReadApp\obj\Debug\ReadApp.pdb
